@@ -14,7 +14,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
-  gem.name = "stopwords-filter"
+  gem.name = "wm-stopwords-filter"
   gem.homepage = "http://github.com/brenes/stopwords-filter"
   gem.license = "MIT"
   gem.summary = "Snowball based filters for stopwords"
