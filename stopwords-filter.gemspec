@@ -4,13 +4,12 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{stopwords-filter}
+  s.name = %q{wm-stopwords-filter}
   s.version = "0.7.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["David J. Brenes"]
+  s.authors = [""]
   s.date = %q{2021-12-19}
-  s.description = %q{Small library that allows you to create a simple stopwords filter or use some based on Snowball stopwords lists}
   s.email = %q{davidjbrenes@gmail.com}
   s.extra_rdoc_files = [
     "CHANGELOG",
@@ -40,7 +39,7 @@ Gem::Specification.new do |s|
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.6.2}
-  s.summary = %q{Snowball based filters for stopwords}
+  s.summary = %q{}
 
 end
 
